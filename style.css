@@ -1,0 +1,53 @@
+ body{
+     margin:  0px;
+     padding: 0px;
+     background-color: black;
+ }
+ 
+ #bigDiv {
+     width: 500px;
+     height: 450px;
+     background-color: white;
+     margin: 100px auto;
+ }
+ 
+ 
+ .boxes{
+     width:  230px;
+     float: left;
+     padding: 10px ;
+     
+ }
+ 
+ #imgBox {
+     width: 100%;
+     text-align: right;
+ }
+ 
+ #Logo {
+     width: 50px;
+ }
+ 
+ .informationInputs{
+    margin-top:  5px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 173px;
+    height: 34px;
+    font-size: 20px;
+ }
+ 
+ 
+ #buttonDiv{
+     width: 500px;
+     text-align:  center;
+     overflow: hidden;
+     
+ }
+ 
+ #buttonDiv > input {
+     background-color: gray
+     font-size: 20px;
+     
+ }
+ 
